@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'SortVisualizer',
+  title: 'Sort Visualizer by Google Firebase Studio',
   description: 'Visualize sorting algorithms side-by-side.',
 };
 
