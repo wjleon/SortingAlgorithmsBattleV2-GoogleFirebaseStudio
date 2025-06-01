@@ -65,6 +65,13 @@ export default {
           border: 'hsl(var(--sidebar-border))',
           ring: 'hsl(var(--sidebar-ring))',
         },
+        bar: {
+          default: 'var(--bar-default)',
+          comparing: 'var(--bar-comparing)',
+          swapping: 'var(--bar-swapping)',
+          pivot: 'var(--bar-pivot)',
+          sorted: 'var(--bar-sorted)',
+        }
       },
       borderRadius: {
         lg: 'var(--radius)',
