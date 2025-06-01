@@ -2,6 +2,8 @@
 
 SortVisualizer is a Next.js web application that allows users to visualize various sorting algorithms operating side-by-side on the same dataset. Users can configure the number of elements, their initial distribution, select different algorithms for comparison, control animation speed, and toggle audio feedback.
 
+> **Note**: This repository is part of the blog post ["What a Comeback: Google Firebase Studio Strikes Back This Time, Lovable Still Performs Flawlessly"](https://medium.com/@wjleon/what-a-comeback-google-firebase-studio-strikes-back-this-time-lovable-still-performs-flawlessly-cc9aafabaf6c) on Medium.
+
 ## Features
 
 -   **Dual Visualization Panels**: Compare two sorting algorithms simultaneously.
